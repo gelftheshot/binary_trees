@@ -5,7 +5,8 @@
  * @tree: pointer to the node to measure the depth
  *
  * Description: This function measures the depth of a node in a binary tree.
- * The depth is measured as the number of edges from the node to the tree's root.
+ * The depth is measured as the number of edges from the node to the
+ * tree's root.
  *
  * Return: depth of the node in the binary tree, or 0 if node is NULL
  */
