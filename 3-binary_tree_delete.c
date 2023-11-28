@@ -4,6 +4,10 @@
  * binary_tree_delete - Deletes an entire binary tree
  * @tree: Pointer to the root node of the tree to delete
  *
+ * Description: This function deletes an entire binary tree. It does this by
+ * recursively deleting the left and right children of each node, starting from
+ * the given root node, before finally freeing the node itself.
+ *
  * Return: Nothing
  */
  
